@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-=======
->>>>>>> 836e571 (Git ignore file change)
 # Compiled class file
 *.class
 
@@ -77,8 +73,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-<<<<<<< HEAD
 
->>>>>>> 016cf08 (Test task calculator)
-=======
->>>>>>> 836e571 (Git ignore file change)
